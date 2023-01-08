@@ -1,6 +1,6 @@
 container:
   cpu: 1
-  memory: 2G
+  memory: 8G
 
 pipe:
   name: Build Site and Validate Links
